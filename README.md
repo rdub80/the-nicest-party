@@ -14,7 +14,7 @@ Basically, have fun with this but don't go being all hypercorp about it.
 
 ## Sounds good! Now what?
 
-If you're a git-using type of person then the easiest way to be one of the nice people is to create a nice pull request that creates a new directory under `/audio/` with some unique name (your person-style name, your favorite pet's name, anything except not-niceties really) that contains your audio recording and a copy of [this attribution file]() (TBD) with your name and email instead of "YOUR NAME" and "EMAIL".
+If you're a git-using type of person then the easiest way to be one of the nice people is to create a nice pull request that creates a new directory under `/audio/` with some unique name (your person-style name, your favorite pet's name, anything except not-niceties really) that contains your audio recording and a copy of [this license file](https://raw.githubusercontent.com/TrevorFSmith/the-nicest-party/main/template-license.md) with your name and email instead of "YOUR NAME" and "EMAIL".
 
 If you're a non-git-using type of person (and that's most of us!) then DM [me @TrevorFSmith@Twitter.com](https://twitter.com/TrevorFSmith) and I'll give you deets on how to contribute using that sweet, sweet email (of all things!). If this goes viral (and I really hope that it doesn't) then I'll have to close up DMs but if everybody is nice about it then DMs and email can work just fine.
 
