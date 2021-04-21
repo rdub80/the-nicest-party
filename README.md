@@ -30,6 +30,14 @@ Generally, clips should be shortish, like less than 20 or 30 seconds. Even just 
 
 The nice party is nicely mellow, sure, but it's not bad to put emotion into it. Voice recordings usually feel better with about 20% more oomph in them than you'd say IRL. I don't know why. /me shrugs
 
+## Is it nice to contribute more than one recording?
+
+Heck, yes!
+
+## Is it nice to contribute someone else's clips without their approval?
+
+Heck, no!
+
 ## Then what?
 
 Once we have a goodly number of nice contributions I'll normalize the audio clips into a nice consistent format but you can make my life easier by contributing your recording as a WAV file. Don't sweat it too much, but you know, if it's easy peasy then WAV is nice.
