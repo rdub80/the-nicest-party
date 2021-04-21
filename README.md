@@ -40,4 +40,4 @@ No worries! Just abide by the CC license and enjoy.
 
 Hashtagies nice,
 
-- [Trevor Flowers](https://trevor.smith.name/)
+\- [Trevor Flowers](https://trevor.smith.name/)
