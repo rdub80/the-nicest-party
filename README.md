@@ -18,12 +18,26 @@ If you're a git-using type of person then the easiest way to be one of the nice 
 
 If you're a non-git-using type of person (and that's most of us!) then DM [me @TrevorFSmith@Twitter.com](https://twitter.com/TrevorFSmith) and I'll give you deets on how to contribute using that sweet, sweet email (of all things!). If this goes viral (and I really hope that it doesn't) then I'll have to close up DMs but if everybody is nice about it then DMs and email can work just fine.
 
+## Ok, but what are some nice things to say?
+
+Here are a few examples but for real it would be nice if you could make up your own because then the party would be kind of random and awesome instead of scripted.
+
+- You did great today on some ding dang hard work
+- All of your hard work paid off and I'm proud of you
+- I see and love you, friend-o
+
+Generally, clips should be shortish, like less than 20 or 30 seconds. Even just a mini like "Way to go!" is great.
+
+The nice party is nicely mellow, sure, but it's not bad to put emotion into it. Voice recordings usually feel better with about 20% more oomph in them than you'd say IRL. I don't know why. /me shrugs
+
 ## Then what?
 
-I (Trevor) will eventually normalize all of the audio clips into a nice consistent format but you can make my life easier by contributing your recording as a WAV file. Don't sweat it too much, but you know, if it's easy peasy then WAV is nice.
+Once we have a goodly number of nice contributions I'll normalize the audio clips into a nice consistent format but you can make my life easier by contributing your recording as a WAV file. Don't sweat it too much, but you know, if it's easy peasy then WAV is nice.
 
 ## I (don't like my voice | am not comfy with sharing | feel stressed about this) but want to use the clips
 
-No worries! Just abide (like The Dude) by the CC license and enjoy.
+No worries! Just abide by the CC license and enjoy.
 
-Hashtagies nice.
+Hashtagies nice,
+
+- [Trevor Flowers](https://trevor.smith.name/)
