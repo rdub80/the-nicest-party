@@ -1,4 +1,6 @@
-# The Nicest Party: Audio recordings of people saying nice things
+# The Nicest Party:
+
+## Audio recordings of people saying nice things
 
 A [nice project tweet](https://twitter.com/DaniGatunes/status/1384700454626594817) prompted a [nice thread](https://twitter.com/TrevorFSmith/status/1384701449238573057) about asking nice people to say nice things so that we can make nice digital crowds.
 
@@ -24,4 +26,4 @@ I (Trevor) will eventually normalize all of the audio clips into a nice consiste
 
 No worries! Just abide (like The Dude) by the CC license and enjoy.
 
-Hashies nice.
+Hashtagies nice.
